@@ -47,7 +47,7 @@ def tearDown() {
 /**
  * Run before each test case starts.
  */
-@SetupTestCase(skipped = true) // Please change skipped to be false to activate this method.
+@SetupTestCase(skipped = true) // Please change skipped to be false to activate this method.TEST
 def setupTestCase() {
 	// Put your code here.
 }
